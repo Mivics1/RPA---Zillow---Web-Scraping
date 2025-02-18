@@ -1,0 +1,14 @@
+﻿{
+  "Name": "Houses",
+  "Type": "Element",
+  "TaxonomyType": "Checkbox",
+  "Id": "bNL3aHJlp02d2SsCnAbUPw",
+  "Reference": "uPmnQExjcUWYB-NIeOgEkQ/bNL3aHJlp02d2SsCnAbUPw",
+  "ParentRef": "uPmnQExjcUWYB-NIeOgEkQ/ZiBbLcOX1UOrmchzRknaGQ",
+  "Created": "2025-02-18T09:38:34.0119797Z",
+  "Updated": "2025-02-18T09:38:34.0119797Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.12.4.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.12.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

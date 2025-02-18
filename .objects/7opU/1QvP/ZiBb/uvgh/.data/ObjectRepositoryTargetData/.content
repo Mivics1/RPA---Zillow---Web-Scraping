@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="MLoHRfcJ-keSrZYVdLakhw" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="zillow.com/los-angeles-ca/houses" CVScreenId="56d6d095-27a8-4d63-9fcc-cd5daa7e6252" CvElementArea="2133, 1334, 360, 95" CvTextArea="2265, 1365, 96, 40" CvTextArgument="Apply" CvType="Button" DesignTimeRectangle="2135, 1338, 356, 88" DesignTimeScaleFactor="2" ElementType="Button" FullSelectorArgument="&lt;webctrl aaname='Apply' parentid='home-type' tag='BUTTON' /&gt;" FuzzySelectorArgument="&lt;webctrl aaname='Apply' parentid='home-type' tag='BUTTON' innertext='Apply' check:text='Apply' /&gt;" Guid="53a7cfca-ffac-43c0-be4d-3dbf2729633c" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Los Angeles CA Single Family Homes For Sale - 3445 Homes | Zillow' /&gt;" SearchSteps="Selector, FuzzySelector, CV" Version="V5" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="30ab1112df5e15e02c5e627fb2acc787.png" xmlns="">03P8d-spfnEy4IQycA_0ZCA</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

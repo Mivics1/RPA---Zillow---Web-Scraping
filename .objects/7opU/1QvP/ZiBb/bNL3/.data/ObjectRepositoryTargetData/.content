@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="MSBdGJxPiU6szzsIrGNrmQ" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="zillow.com/los-angeles-ca" CVScreenId="3a337904-7100-4519-bcb4-6e8f91d6825a" CvElementArea="2135, 649, 47, 47" CvType="CheckBox" DesignTimeRectangle="2139, 654, 40, 40" DesignTimeScaleFactor="2" ElementType="CheckBox" FullSelectorArgument="&lt;webctrl id='home-type_isSingleFamily' tag='INPUT' /&gt;" FuzzySelectorArgument="&lt;webctrl id='home-type_isSingleFamily' tag='INPUT' aaname='Houses ' type='checkbox' /&gt;" Guid="d5baf8e7-3bbc-4c3d-a2ef-20a1c61f5a73" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Los Angeles CA Real Estate - Los Angeles CA Homes For Sale | Zillow' /&gt;" SearchSteps="Selector, FuzzySelector, CV" Version="V5" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="3a337904-7100-4519-bcb4-6e8f91d6825a" CvTextArea="2193, 655, 114, 28" CvTextArgument="Houses" CvType="Text" DesignTimeRectangle="2179, 646, 135, 48" ElementType="Text" FuzzySelectorArgument="&lt;webctrl aaname='Houses ' tag='LABEL' type='' class='StyledLabel-c11n-8-109-1__sc-14wqmdp-0 eccDIM short-label' check:innerText='Houses' /&gt;" Guid="efaa23f8-0f33-4882-8d46-8f0dab153f01" SearchSteps="FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="82557d1dffa58d66e2867be1d44d8f27.png" xmlns="">0-rdB-T-o0kCg_a8xlYx4eg</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Check</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

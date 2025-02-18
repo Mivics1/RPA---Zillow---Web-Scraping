@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="nsS_dOfrHk2KcAUReUmP6A" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="zillow.com/homes" CVScreenId="05b50c5a-7884-45ac-ba4d-f48eae85368a" CvElementArea="2099, 359, 307, 81" CvTextArea="2149, 387, 158, 34" CvTextArgument="Home Type" CvType="Button" DesignTimeRectangle="2103, 364, 300, 74" DesignTimeScaleFactor="2" ElementType="Button" FullSelectorArgument="&lt;webctrl parentid='home-type' tag='BUTTON' /&gt;" FuzzySelectorArgument="&lt;webctrl parentid='home-type' tag='BUTTON' aaname='Home Type' check:text='Home Type' /&gt;" Guid="afcae21f-1833-4b6b-a8d1-671928d170c7" ScopeSelectorArgument="&lt;html app='chrome.exe' title='New York NY Real Estate - New York NY Homes For Sale | Zillow' /&gt;" SearchSteps="Selector, FuzzySelector, CV" Version="V5" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="6aaa9f6966453a7fd8b576c2b936e0b0.png" xmlns="">0JqyUkrty-E2TH2oTe4Figg</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>
