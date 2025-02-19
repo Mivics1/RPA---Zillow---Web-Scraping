@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-16"?>
-<ObjectRepositoryTargetData ContentHash="GiEr8sSvVkKFAKF8cg9aIQ" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+<ObjectRepositoryTargetData ContentHash="bG3b_BBhV0i4FK6Wn8IhJw" Reference="uPmnQExjcUWYB-NIeOgEkQ/ASMJaF3uD0219cnUMGXcRw" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
   <ObjectRepositoryTargetData.Data>
-    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="zillow.com/los-angeles-ca" CVScreenId="8b0b5e4f-2ba6-47d5-bdc9-bc930f3ab7f4" CvTextArea="2197, 559, 164, 28" CvTextArgument="Deselect All" CvType="Text" DesignTimeRectangle="2135, 550, 227, 48" DesignTimeScaleFactor="2" ElementType="Button" FullSelectorArgument="&lt;webctrl parentid='home-type' tag='BUTTON' /&gt;&lt;nav up='1' /&gt;&lt;webctrl aaname='Deselect All' tag='BUTTON' type='button' /&gt;" FuzzySelectorArgument="&lt;webctrl aaname='Deselect All' tag='BUTTON' type='button' check:innerText='Deselect All' /&gt;" Guid="5877acf4-ccd1-4703-9d3d-37250c3bb8b6" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Los Angeles CA Real Estate - Los Angeles CA Homes For Sale | Zillow' /&gt;" SearchSteps="Selector, FuzzySelector, CV" Version="V5" Visibility="Interactive">
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="zillow.com/los-angeles-ca" CVScreenId="8b0b5e4f-2ba6-47d5-bdc9-bc930f3ab7f4" ContentHash="GiEr8sSvVkKFAKF8cg9aIQ" CvTextArea="2197, 559, 164, 28" CvTextArgument="Deselect All" CvType="Text" DesignTimeRectangle="2135, 550, 227, 48" DesignTimeScaleFactor="2" ElementType="Button" FullSelectorArgument="&lt;webctrl aaname='Deselect All' tag='BUTTON' type='button' /&gt;" FuzzySelectorArgument="&lt;webctrl aaname='Deselect All' tag='BUTTON' type='button' check:innerText='Deselect All' /&gt;" Guid="5877acf4-ccd1-4703-9d3d-37250c3bb8b6" ImageBase64="" Reference="uPmnQExjcUWYB-NIeOgEkQ/ASMJaF3uD0219cnUMGXcRw" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Los Angeles CA Real Estate - Los Angeles CA Homes For Sale | Zillow' /&gt;" SearchSteps="Selector, FuzzySelector, CV" Version="V5" Visibility="Interactive">
       <TargetAnchorable.Anchors>
-        <scg:List x:TypeArguments="ITarget" Capacity="4">
+        <scg:List x:TypeArguments="ITarget" Capacity="1">
           <Target CVScreenId="8b0b5e4f-2ba6-47d5-bdc9-bc930f3ab7f4" CvTextArea="2133, 489, 160, 32" CvTextArgument="Home Type" CvType="Text" DesignTimeRectangle="2103, 454, 420, 96" ElementType="Text" FuzzySelectorArgument="&lt;webctrl type='' tag='H6' class='Flex-c11n-8-109-1__sc-n94bjd-0 StyledDropdownHeading-c11n-8-109-1__sc-i8acda-0 bTbAXT iTWmrn HomeTypeContent__StyledDropdownHeading-srp-8-109-1__sc-u0n0f8-2 xbRiR' aaname='Home Type' check:innerText='Home Type' /&gt;" Guid="b5b872ac-c2fc-4721-a617-36116d62d298" SearchSteps="FuzzySelector, CV" />
         </scg:List>
       </TargetAnchorable.Anchors>
-      <imageRef attrName="InformativeScreenshot" originalValue="2d7cec4815e54c5a0c53b96df99a28c8.png" xmlns="">0DFSJtOXtwE-HEGDjTolXmg</imageRef>
+      <imageRef attrName="InformativeScreenshot" originalValue="2d7cec4815e54c5a0c53b96df99a28c8.png" xmlns="">0JLenYJZ8O0KcCnSqReEy9A</imageRef>
     </TargetAnchorable>
     <x:String x:Key="ActivityType">Click</x:String>
   </ObjectRepositoryTargetData.Data>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="7qWMXJ-G8E-YBzpTPKoWOw" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="zillow.com" CVScreenId="c4e73150-d3ba-4c86-9dda-0ca605486c13" CvTextArea="1311, 1305, 282, 38" CvTextArgument="Skip this question" CvType="Text" DesignTimeRectangle="1253, 1298, 400, 48" DesignTimeScaleFactor="2" ElementType="Button" FullSelectorArgument="&lt;webctrl aaname='Skip this question' tag='BUTTON' /&gt;" FuzzySelectorArgument="&lt;webctrl aaname='Skip this question' tag='BUTTON' type='' class='StyledTextButton-c11n-8-106-0__sc-1nwmfqo-0 kmALMr' check:text='Skip this question' /&gt;" Guid="dd228f0e-47e9-40cb-938b-d5632480b40a" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Zillow: Real Estate, Apartments, Mortgages &amp;amp; Home Values' /&gt;" SearchSteps="Selector, FuzzySelector, CV" Version="V5" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="4b14807cf435efc96508673cffdf0567.png" xmlns="">0hs7hrRa4o0ml9IH69w0bmg</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>
